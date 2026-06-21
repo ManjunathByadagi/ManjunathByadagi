@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManjunathByadagi&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 <h1 align="center">Hi 👋, I'm Manjunath K Byadagi</h1>
 
 <h3 align="center">
@@ -34,6 +36,22 @@ Building Production-Ready AI Systems, Retrieval-Augmented Generation (RAG) Appli
 - 🏆 Solving Data Structures & Algorithms using Java
 - 🌐 Portfolio: https://manjunath-portfolio-green.vercel.app/
 - 📫 Email: manjunathbyadagi11@gmail.com
+
+---
+
+## 💼 Experience
+
+### Cybersecurity Research Intern
+
+- Conducting research on TCP/IP security, NAT behavior analysis, and firewall mechanisms
+- Working with Scapy, Docker, Linux Networking, and packet analysis
+- Studying network security vulnerabilities and attack detection techniques
+
+### Infosys Springboard Virtual Intern
+
+- Participating in industry-oriented software development and AI learning programs
+- Developing practical skills in Python, AI/ML, and software engineering
+- Collaborating on real-world project-based learning activities
 
 ---
 
@@ -163,6 +181,13 @@ Python • Pandas • NumPy • Scikit-Learn
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ManjunathByadagi&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
 ## 🏆 GitHub Streak
 
 <p align="center">
