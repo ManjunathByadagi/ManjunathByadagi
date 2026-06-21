@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Manjunath K Byadagi</h1>
 
 <h3 align="center">
@@ -222,4 +222,4 @@ https://www.linkedin.com/in/manjunath-k-byadagi/
 > Consistency compounds. Small improvements every day lead to extraordinary results.
 
 ⭐ Thanks for visiting my profile. Feel free to explore my repositories and connect with me.
-```
+
