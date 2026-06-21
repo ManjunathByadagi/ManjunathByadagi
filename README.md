@@ -1,156 +1,140 @@
-# Hi, I'm Manjunath K Byadagi 👋
+<h1 align="center">Hi 👋, I'm Manjunath K Byadagi</h1>
 
-🎓 Computer Science Engineering Student at PES University
+<h3 align="center">
+Backend Developer • AI Engineer • Cybersecurity Research Enthusiast
+</h3>
 
-💻 Aspiring Software Engineer specializing in Backend Development, AI Systems, and Cybersecurity
-
-🚀 Building production-oriented applications using Python, FastAPI, RAG, Machine Learning, and Docker
-
-📚 Currently strengthening Data Structures & Algorithms in Java while developing real-world AI solutions
-
----
-
-## About Me
-
-I am passionate about solving real-world problems through software engineering and artificial intelligence.
-
-My current focus areas include:
-
-- Retrieval-Augmented Generation (RAG)
-- Backend Development with FastAPI
-- Machine Learning & NLP
-- Cybersecurity Research
-- Data Structures & Algorithms
-
-I enjoy building systems that are scalable, practical, and impactful.
+<p align="center">
+Building Production-Ready AI Systems, RAG Applications, and Security Research Projects
+</p>
 
 ---
 
-## Featured Projects
+### 🚀 About Me
 
-### Regulatory Compliance RAG Assistant
-
-Production-oriented Retrieval-Augmented Generation system for compliance teams handling:
-
-- RBI Circulars
-- SEBI Regulations
-- Basel III Guidelines
-
-#### Key Features
-
-- Hybrid Retrieval (BM25 + Semantic Search)
-- FastAPI Backend
-- Document Ingestion Pipeline
-- Evaluation Framework
-- Modular Architecture
-- Production-Ready Code Structure
-
-**Tech Stack:** Python, FastAPI, BM25, Vector Search, Docker
+- 🎓 Computer Science Engineering Student at PES University
+- 💻 Interested in Backend Development, AI Systems, and Cybersecurity
+- 🔭 Currently building a Regulatory Compliance RAG Assistant
+- 🌱 Learning Advanced RAG, Agentic AI, and System Design
+- 🏆 Solving DSA problems using Java
+- 📫 Reach me: your-email@example.com
 
 ---
 
-### Network Security Research Lab
+### 🌐 Connect With Me
 
-Research-focused cybersecurity projects involving:
-
-- TCP Sequence Number Analysis
-- NAT Behavior Detection
-- Firewall Security Testing
-- Docker-Based Network Simulation
-
-**Tech Stack:** Python, Scapy, Docker, Linux Networking
-
----
-
-### Customer Segmentation using Machine Learning
-
-Machine Learning project focused on telecom customer analysis.
-
-#### Implemented
-
-- Data Cleaning & Preprocessing
-- PCA Visualization
-- K-Means Clustering
-- Customer Retention Insights
-
-**Tech Stack:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib
+<p align="left">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="YOUR_GITHUB_URL">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
 
 ---
 
-## Technical Skills
+### 💻 Languages & Tools
 
-### Programming Languages
+<p align="left">
 
-- Python
-- Java
-- C
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
-### Backend Development
+</p>
 
-- FastAPI
-- Flask
-- REST APIs
-- SQLite
+---
 
-### Artificial Intelligence & Machine Learning
+### 🤖 AI / ML Stack
 
-- Scikit-Learn
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch" />
+
+</p>
+
 - Machine Learning
 - NLP
-- Retrieval-Augmented Generation (RAG)
+- RAG Systems
 - Vector Search
-
-### Cybersecurity
-
-- Scapy
-- Network Security
-- TCP/IP Analysis
-- Firewall Testing
-
-### Tools & Technologies
-
-- Git
-- GitHub
-- Docker
-- Linux
-- VS Code
+- Scikit-Learn
+- LangChain
+- LlamaIndex
 
 ---
 
-## Current Learning Goals
+### 🔥 Featured Projects
 
-- Agentic AI Systems
-- Advanced RAG Architectures
-- System Design
-- Open Source Contributions
-- Competitive Programming
+#### Regulatory Compliance RAG Assistant
 
----
+Production-oriented RAG system for:
 
-## GitHub Statistics
+- RBI Circulars
+- Basel III Guidance
+- SEBI Regulations
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManjunathByadagi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjunathByadagi&layout=compact&theme=tokyonight)
+Tech Stack:
+Python • FastAPI • BM25 • Vector Search • Docker
 
 ---
 
-## Connect With Me
+#### Network Security Research Lab
 
-💼 LinkedIn:
-https://www.linkedin.com/in/manjunath-k-byadagi/
+Projects involving:
 
-📧 Open to:
-- Software Engineering Internships
-- Python Developer Internships
-- AI/ML Internships
-- Backend Development Roles
-- Open Source Collaborations
+- NAT Behavior Detection
+- TCP Sequence Number Analysis
+- Firewall Security Testing
+- Scapy Automation
 
 ---
 
-### Motto
+#### Customer Segmentation using Machine Learning
 
-> Consistency compounds. Small improvements every day lead to extraordinary results.
+- K-Means Clustering
+- PCA
+- Telecom Customer Retention Analysis
 
-⭐ If you find my work interesting, feel free to explore my repositories and connect with me.
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ManjunathByadagi&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManjunathByadagi&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+### ⚡ Current Focus
+
+✔ Production RAG Systems
+
+✔ Backend Engineering
+
+✔ DSA in Java
+
+✔ Open Source Contributions
+
+✔ Cybersecurity Research
+
+---
+
+### 💡 Quote
+
+"Consistency compounds. Small improvements every day lead to extraordinary results."
